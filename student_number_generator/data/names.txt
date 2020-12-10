@@ -20,7 +20,7 @@ Chiyembekezo
 Chrizanne
 Dakarai
 Dalitso
-Danai (2)
+Danai
 Dikeledi
 Dumi
 Dumisani
@@ -64,7 +64,7 @@ Mpho
 Mtendere
 Mudiwa
 Munashe
-Neo (1)
+Neo
 Nkosana
 Nkosazana
 Nomusa
@@ -98,7 +98,7 @@ Sibongile
 Sibusisiwe
 Sibusiso
 Sifiso
-Simba (1)
+Simba
 Sipho
 Sithembile
 Siyabonga
@@ -139,4 +139,4 @@ Yamikani
 Zephania
 Zikomo
 Zodwa
-Zola (2)
+Zola

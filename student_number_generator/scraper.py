@@ -25,9 +25,14 @@ def scrape_names(url, filepath, save=False):
             if not os.path.exists(os.path.dirname(filepath)):
                 os.makedirs(os.path.dirname(filepath))
 
-            with open(filepath, 'w') as f:
+            with open(filepath, 'w', encoding="utf-8") as f:
                 for name in names:
-                    f.write(f"{name}\n")
+                    if name.isalpha():
+                        f.write(f"{name}\n")
+                    elif name.split()[1].isalpha():
+                        f.write(f"{name}\n")
+                    elif not name.split()[1].isalpha():
+                        f.write(f"{name.split()[0]}\n")
 
 # MAIN
 def main():
