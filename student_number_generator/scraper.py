@@ -27,7 +27,7 @@ def scrape_names(url, filepath, save=False):
 
             with open(filepath, 'w') as f:
                 for name in names:
-                    f.write(name)
+                    f.write(f"{name}\n")
 
 # MAIN
 def main():
