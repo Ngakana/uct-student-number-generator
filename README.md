@@ -1,0 +1,1 @@
+A Python script that generates a University of Cape Town student number based on your names
