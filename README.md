@@ -1,1 +1,1 @@
-A Python script that generates a University of Cape Town student number based on your names
+A Python script that generates a University of Cape Town student number based on given names. This script more accurately demonstrates how the student numbers are generated, so the generated student number is likely to differ from what your actual student number would be. To generate the actual student numbers, access to all UCT student names would be required which UCT cannot share because of privacy policies. 
